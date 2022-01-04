@@ -4,16 +4,18 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![](https://pic.intime.fun/blog/jekyll.png){:width="40%"}
+
 ## 关于本站
 
-本站是使用 [Jekyll](https://jekyllrb.com/) 生成的全静态博客，采用 Jekyll 主题 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/) 。
+本站是利用 [Jekyll](https://jekyllrb.com/) 生成的全静态博客，使用了 Jekyll 主题 [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/) 。
 
 项目托管于 [GitHub](https://github.com/alexsuncn/alexsuncn.github.io) ，并通过 [GitHub Pages](https://pages.github.com/) 发布。
 
-由于全静态的原因，本站暂无评论或留言功能，如有需要，请移步至本项目的[GitHub讨论区](https://github.com/alexsuncn/alexsuncn.github.io/discussions)。
+本站暂无评论或留言功能，如有需要请移步至本项目的[GitHub讨论区](https://github.com/alexsuncn/alexsuncn.github.io/discussions)。
 
 ## 关于我
 
-一名90后，生物信息软件工程师，现就职于某IVD[^ivd]公司，主要通过Python进行自动化流程开发。
+90后，生物信息软件工程师，现就职于某IVD[^ivd]公司，主要通过Python进行自动化流程开发。
 
 [^ivd]: IVD（In Vitro Diagnosis，体外诊断）

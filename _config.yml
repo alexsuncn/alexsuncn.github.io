@@ -80,7 +80,7 @@ theme_mode:   # [light|dark]
 img_cdn: https://pic.intime.fun
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /blog/avatar.jpg
+avatar: /blog/avatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
