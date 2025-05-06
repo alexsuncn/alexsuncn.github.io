@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![](https://pic.intime.fun/blog/jekyll.png){:width="40%"}
+![](/assets/img/jekyll.png){:width="40%"}
 
 ## 关于本站
 
@@ -16,6 +16,4 @@ order: 4
 
 ## 关于我
 
-90后，生物信息软件工程师，现就职于某IVD[^ivd]公司，主要通过Python进行自动化流程开发。
-
-[^ivd]: IVD（In Vitro Diagnosis，体外诊断）
+90后生物信息软件工程师，主要使用Python进行自动化流程开发。
